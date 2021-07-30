@@ -9,4 +9,4 @@
 
 ## Private Leaderboard : 3rd
 
-[\[Solution Report\]](./deep_learning_final_report.docx)<br>
+[\[Solution Report\]](./deep_learning_final_report.pdf)<br>
